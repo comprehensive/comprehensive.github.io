@@ -62,3 +62,6 @@ plugins:
 
 disqus:
     shortname: comprehensive
+
+minima:
+  skin: classic
