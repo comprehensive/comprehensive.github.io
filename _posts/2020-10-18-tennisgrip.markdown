@@ -12,7 +12,7 @@ It was Wilson Hyper Hammer, nice racquet. Pretty soon I have discovered that the
 the grip slips off in my hands. To perform proper grip measurement, you can use guides like <a href="https://www.tennis-warehouse.com/learning_center/how_to/how_to_measure_your_tennis_grip_size.html">this one</a> 
 suggested by Tennis warehouse.
 
-<img src="https://img.tennis-warehouse.com/watermark/rsg.php?path=/content_images/measuring-your-grip-size/IMG_8897.jpg&nw=289" style="float: left; margin-right: 1em;"/>
+<img src="https://img.tennis-warehouse.com/watermark/rsg.php?path=/content_images/measuring-your-grip-size/IMG_8897.jpg&nw=289" style="float: none;display: block;margin-left: auto;margin-right: auto;"/>
 
 So I started my research on how to increase the grip. 
 
