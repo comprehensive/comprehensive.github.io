@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Comming soon
+Coming soon
