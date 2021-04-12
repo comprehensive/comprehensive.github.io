@@ -4,8 +4,7 @@ title:  "Custom Tennis Racquet Grip"
 date:   2020-10-18 12:44:27 +0300
 
 ---
-If you like myself have a grip size larger than racquets available in stock, I
-would like to tell you a story about my journey to having a racquet matching my hand.
+If you just like myself have a grip size larger than racquets available in stock, I'll tell you a story about my journey to having a racquet matching my hand.
 
 My first raquet was 4 3/8" - I did not bother with grip sizing at the moment and needed just something to start off with.
 It was Wilson Hyper Hammer, nice racquet. Pretty soon I discovered that the grip was too small. I did not perform any measurements, just had a feeling 
